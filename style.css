@@ -1,0 +1,39 @@
+body{
+    font-family: 'Long Cang', cursive;
+    background-color: rgb(214, 187, 209); 
+    font-size: 35px;
+}
+
+.header_div{
+    font-size: 35px;
+    background-color: rgb(255, 255, 255);
+    color:black;
+}
+
+.header_div p{
+    font-family: 'Single Day', cursive;
+    color: black;
+    letter-spacing:2px;
+    font-size :20px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Single Day', cursive;
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
+
+.copywrightfooder{
+    position: fixed;
+    color: rgb(103, 124, 141);
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color: white;
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(209, 192, 192);
+}
